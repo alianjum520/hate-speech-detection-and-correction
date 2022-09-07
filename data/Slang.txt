@@ -101,6 +101,7 @@ imy,i miss you
 irl,in real life
 istg,i swear to god
 jk,just kidding
+jr,junior
 k,ok
 kinda,kind of
 kms,kill myself
@@ -222,5 +223,6 @@ xxx,kiss
 y,why
 yawn,boring
 yolo,you only live once
+yr,year
 yum,good
 zzz,sleeping
