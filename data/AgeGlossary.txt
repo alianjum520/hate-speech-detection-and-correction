@@ -17,6 +17,7 @@ boys
 brain
 brat
 bullied
+bullies
 bully
 bullying
 care
@@ -62,12 +63,14 @@ judge
 junior
 juvenile
 kid
+kids
 killer
 liar
 life
 like
 liked
 loser
+marks
 mean
 mental
 mess
@@ -92,6 +95,7 @@ retard
 retarded
 sad
 school
+schools
 see
 senior
 shit
@@ -105,6 +109,7 @@ suck
 sucks
 taunting
 teacher
+teachers
 teen
 tired
 tiring
