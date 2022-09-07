@@ -20,6 +20,7 @@ binary
 biphobia
 bisexual
 bitch
+bitches
 blonde
 bossy
 boy
@@ -60,6 +61,7 @@ equal
 equality
 father
 female
+females
 feminazi
 feminine
 femininity
@@ -70,7 +72,11 @@ femme
 filthy
 flapper
 fluid
+fuck
+fucked
+fucking
 gay
+gays
 gender
 genderqueer
 girl
@@ -90,6 +96,8 @@ inequality
 intergender
 intersex
 jackass
+joke
+jokes
 kink
 kitchen
 knob
@@ -105,6 +113,9 @@ masculine
 masculinity
 men
 misgender
+misogyny
+misogynist
+misogynistic
 mix
 monosexual
 mother
@@ -133,6 +144,7 @@ sex
 sexist
 sexual
 sexuality
+shit
 skank
 skoliosexual
 slut
