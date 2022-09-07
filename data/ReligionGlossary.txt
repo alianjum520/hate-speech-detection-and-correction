@@ -134,9 +134,12 @@ heaven
 hell
 hijab
 hindu
+hindus
 hinduism
 holocaust
 holy
+humanity
+human
 ideology
 idol
 idolatory
@@ -184,6 +187,8 @@ kafir
 karma
 khutba
 khutbah
+kill
+killing
 koan
 krishna
 lord
@@ -249,6 +254,7 @@ qiblah
 quran
 rabb
 radha
+radical
 rakah
 ramadan
 rasool
@@ -304,6 +310,7 @@ temple
 tenet
 terrorism
 terrorist
+terrorists
 testament
 theist
 tithe
@@ -315,6 +322,7 @@ umrah
 vedas
 vishnu
 wali
+war
 witch
 witchcraft
 worship
